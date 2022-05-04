@@ -26,6 +26,37 @@ First, become confident with the JavaScript concepts I've listed above by buildi
 
 
 <h2>Step 2: Learn React fundamentals and React hooks</h2>
+
+Once you’re confident with JavaScript, you’re ready to learn React and its core concepts.
+
+These fundamentals are all React-specific and they exist to help us build applications with React, using patterns that JavaScript itself does not have.
+
+<b>What React fundamentals do you need to know?</b>
+<ul>
+<li>
+How to structure JSX elements (and how it differs from plain HTML)
+  </li>
+<li>How to render (show) JSX elements and how to show or hide elements based on certain conditions  </li>
+<li>How to split JSX into components and how to reuse and organize those components to make our app interface.  </li>
+<li>How to pass data (+ JSX elements and components) to components using props and when to do so  </li>
+<li>How to store and update data within components using state and how to "lift state up" to other components  </li>
+
+<li>How to use event data in React and handle events from onClick, onChange, and onSubmit events (i.e. events from buttons, inputs, and forms)  </li>
+</ul>
+As a 7-year old library, React’s features have changed over time. A question I’m often asked is what should you learn first: the old or the new syntax? At the end of 2018, React received a large update that included features called React Hooks. 
+
+
+Hooks were a great improvement. They made React apps simpler, more powerful, and allow us to write less code. What’s important for you to know is the five core React hooks.
+
+<b>What five React Hooks do you need to know most of all?</b>
+  <ul><li>
+useState: to store and manage data within individual components</li><li>
+useEffect: to perform actions like HTTP requests or working with a browser API</li><li>
+useRef: to reference JSX elements</li><li>
+useContext: to access data from React Context to share data among components more easily [rather than passing props]</li><li>
+useReducer: to store and manage data across multiple components</li><li>
+There are more hooks than these 5, but the others are not needed as often. So yes, you should learn the latest React features. Jump into using hooks right away. They will be the basis of every React app you make.</li>
+</ul>
 <h2>Step 3: Learn to fetch data from both REST and GraphQL APIs</h2>
 <h2>Step 4: Learn to style your React apps with a component library or utility class library</h2>
 <h2>Step 5: Manage state in React with React context</h2>
