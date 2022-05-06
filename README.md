@@ -58,6 +58,13 @@ useReducer: to store and manage data across multiple components</li><li>
 There are more hooks than these 5, but the others are not needed as often. So yes, you should learn the latest React features. Jump into using hooks right away. They will be the basis of every React app you make.</li>
 </ul>
 <h2>Step 3: Learn to fetch data from both REST and GraphQL APIs</h2>
+
+A React app is the frontend of a complete application. In every application, you will likely have both a React frontend, which the user interacts with as well as a backend that our React code interacts with. The backend is where we get our data from and do other things like authenticate our users.
+
+There are two ways of working with data from a backend. The standard way of getting data is from what’s called a REST API. REST APIs are the most common form of API. And the newer way is from what’s called a GraphQL API.
+
+You’ll encounter both types of API in your work, so become familiar with using React to interact with both.
+
 <h2>Step 4: Learn to style your React apps with a component library or utility class library</h2>
 <h2>Step 5: Manage state in React with React context</h2>
 <h2>Step 6: Learn a React router. In particular, react-router-dom</h2>
