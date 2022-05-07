@@ -66,6 +66,18 @@ There are two ways of working with data from a backend. The standard way of gett
 You’ll encounter both types of API in your work, so become familiar with using React to interact with both.
 
 <h2>Step 4: Learn to style your React apps with a component library or utility class library</h2>
+
+Every React app needs styling for its appearance. One choice is to use plain CSS. You can write your own styles and put them in a separate style sheet.
+
+But besides CSS, many React developers use what’s known as a component library for easier styling. A component library gives us reusable components that have their own pre-made styles. The most popular component library for React is Material UI. But there are many others you can choose from.
+
+Developers also use tools that provide pre-made class names called utility class libraries. Unlike a component library, a utility class library comes with pre-made classes to style your elements.
+
+You can style your app by applying classnames to each element. This removes the need to write any styles yourself. The most popular utility class library is Tailwind CSS.
+
+You’ll encounter both of these as a developer, so become familiar with both a component library and a utility class library.
+
+
 <h2>Step 5: Manage state in React with React context</h2>
 <h2>Step 6: Learn a React router. In particular, react-router-dom</h2>
 <h2>Step 7: Learn patterns for authentication in React</h2>
