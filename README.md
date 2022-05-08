@@ -90,4 +90,11 @@ What about Redux? Redux is a popular library for managing state in React apps. I
 
 Plus you can get many of the benefits of Redux by combining React Hooks and React Context. This is a great advantage compared to learning an extra library.
 <h2>Step 6: Learn a React router. In particular, react-router-dom</h2>
+
+What is a router? Any website we visit has many pages we can browse by going forward or backward in our browser’s history. To create these different pages or routes in React, we need to use what’s called a router.
+
+React itself does not come with its own router, so we’re going to need to use a third party library, one called react-router-dom.
+
+react-router-dom is necessary for creating pages in our app, as well as navigating the user around each page. It lets us create links to different pages of our app and navigate to them or redirect them to other pages if we need.
+
 <h2>Step 7: Learn patterns for authentication in React</h2>
