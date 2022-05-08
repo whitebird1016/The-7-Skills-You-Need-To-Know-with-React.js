@@ -79,5 +79,15 @@ You’ll encounter both of these as a developer, so become familiar with both a 
 
 
 <h2>Step 5: Manage state in React with React context</h2>
+
+What is state management? It’s the process of deciding where to locate data and how to work with it across our app. To manage state across your app’s components, use React Context.
+
+React Context is a tool that’s built into the core React library and allows us to pass data across our app's components without using props. It helps us solve the problem of prop-drilling which involves passing props (data) down to components that are deeply nested into one another.
+
+With React Context, we place a value on the context we create and then access it using the useContext() React hook.
+
+What about Redux? Redux is a popular library for managing state in React apps. It is a far more complex tool than you need for most apps you’ll build. While Redux is still relied upon for very large applications, React Context will be enough for any app you make.
+
+Plus you can get many of the benefits of Redux by combining React Hooks and React Context. This is a great advantage compared to learning an extra library.
 <h2>Step 6: Learn a React router. In particular, react-router-dom</h2>
 <h2>Step 7: Learn patterns for authentication in React</h2>
