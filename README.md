@@ -98,3 +98,12 @@ React itself does not come with its own router, so we’re going to need to use 
 react-router-dom is necessary for creating pages in our app, as well as navigating the user around each page. It lets us create links to different pages of our app and navigate to them or redirect them to other pages if we need.
 
 <h2>Step 7: Learn patterns for authentication in React</h2>
+
+Authenticated users are people who have signed in to use our app. And we want to give those users access to different things. For that reason, authentication goes hand in hand with routing. This is because authenticated users should be able to see certain pages that unauthenticated users cannot.
+
+What do you need to know about authentication as a React developer?
+There is one main thing. You should learn how to show certain content to authenticated users and hide that content from unauthenticated ones.
+
+In review, these are all the core skills you need to have as a React developer, capable of building complete applications and working as a hired frontend developer.
+
+Beyond these 7 skills, note that there are many that can deepen your understanding as a developer. For example, learning more about browsers, HTTP, and APIs, to name a few. But if you follow all these steps, you’ll have a solid understanding of React and be able to build applications of any scale.
